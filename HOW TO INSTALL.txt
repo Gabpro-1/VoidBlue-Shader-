@@ -2,4 +2,4 @@
 
 - If you don't know how to install the pack, please go to this link and read the "Installation" section
 
-- https://modrinth.com/shader/complementary-reimagined
+- https://modrinth.com/shader/void-blue
